@@ -9,7 +9,7 @@
 > [!IMPORTANT]
 > **⚠️ Vercel 版本已停止更新，请使用 Cloudflare Workers 版本！**
 > 
-> Workers 版本是当前唯一持续维护的版本，包含所有最新功能。
+> Workers 版本是当前持续维护的版本，包含所有最新功能。Docker 版可能会有更新滞后。
 
 > 🚀 **推荐部署方式：Cloudflare Workers 版本**
 > 
